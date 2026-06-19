@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main() {
+    float sgpa1, sgpa2, sgpa3, cgpa;
+
+    printf("Enter SGPA of Sem 1: ");
+    scanf("%f",&sgpa1);
+
+    printf("Enter SGPA of Sem 2: ");
+    scanf("%f",&sgpa2);
+
+    printf("Enter SGPA of Sem 3: ");
+    scanf("%f",&sgpa3);
+
+    cgpa = (sgpa1 + sgpa2 + sgpa3)/3;
+
+    printf("CGPA = %.2f",cgpa);
+
+    return 0;
+}
