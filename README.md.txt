@@ -16,6 +16,8 @@ This is a dummy project created for Assignment #1.
 
 ## Author
 K. GURUDEEP
+B25EC003
+ECE department
 
 ## Skills Used
 - Git
