@@ -1,0 +1,73 @@
+TECHNICAL DOCUMENTATION
+
+Project Title:
+Student CGPA Calculator
+
+Author:
+K.Gurudeep
+Roll Number:
+B25EC003
+
+Department:
+Electronics and Communication Engineering (ECE)
+
+College:
+Kakatiya Institute of Technology and Science (KITS), Warangal
+
+Introduction:
+The Student CGPA Calculator is a simple C programming project developed to calculate the Cumulative Grade Point Average (CGPA) of a student. This project demonstrates the application of basic programming concepts and the use of Git and GitHub for version control and project management.
+
+Objective:
+1. To calculate the CGPA of a student.
+2. To understand the implementation of C programming concepts.
+3. To learn the fundamentals of Git version control.
+4. To publish and manage projects using GitHub.
+
+Software Requirements:
+- C Compiler (GCC/Turbo C)
+- Git
+- GitHub
+- Windows Operating System
+
+Project Description:
+The Student CGPA Calculator accepts GPA values of different semesters from the user and calculates the overall CGPA. The program uses simple arithmetic operations to determine the final result and displays it on the screen.
+
+Algorithm:
+1. Start the program.
+2. Enter the number of semesters.
+3. Input GPA for each semester.
+4. Calculate the total GPA.
+5. Divide the total GPA by the number of semesters.
+6. Display the CGPA.
+7. Stop the program.
+
+Features:
+- Simple and easy to use.
+- Accurate CGPA calculation.
+- User-friendly interface.
+- Demonstrates basic C programming concepts.
+- Easy to modify for future improvements.
+
+Git Operations Performed:
+1. Installed Git.
+2. Created a GitHub account.
+3. Created a repository named "My-First-git-project".
+4. Added project files to the repository.
+5. Created and updated README documentation.
+6. Committed changes to the repository.
+7. Published the repository online.
+
+Files Included:
+1. README.md
+2. program.c
+3. Technical_Documentation.txt
+4. github_link.txt
+
+Expected Output:
+The program accepts GPA values from the user and displays the calculated CGPA accurately.
+
+Conclusion:
+This project successfully demonstrates the use of C programming for CGPA calculation and GitHub for version control. It helped in understanding repository creation, file management, documentation, and project publishing using Git and GitHub.
+
+Repository Link:
+https://github.com/kesagurudeep-dot/My-First-git-project
